@@ -1,0 +1,21 @@
+.body
+{background-image:url("images/back.gif");
+background-sound:url("sound/back.mp3");
+font-size:20px;
+margin-left:150px;
+margin-right:150px;
+}
+.tbl1{
+border-size:20px;
+width:100%;
+ height:100%;
+ border:20px;
+ bordercolor:black;
+}
+.lnk1{color:#008e11; 
+letter-spacing: 1px;
+font-weight:bold;
+text-decoration:none;
+font-family:andalus;
+font-size:30px;
+}
